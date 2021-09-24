@@ -1,0 +1,3 @@
+1. ./run.sh
+2. Download models: python3 download_model.py
+3. Run demo: python3 interactive_gui.py --video=example/example.mp4
